@@ -1,6 +1,6 @@
 # kmt-sanri.github.io
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Sanri. 👋
 
 ### 🏭 Industrial Energy ➔ 📊 Sales App Planning ➔ 🎓 Sociology Student (ZEN Univ.)
 現場のエネルギー管理からアプリ企画へ。現在はZEN大学でAI・数理を学ぶ社会人学生です。
